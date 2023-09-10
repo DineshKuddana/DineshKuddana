@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kuddana</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3><br>
 
 - 🌱 I’m currently learning **MERN Stack and DSA in Python**
 
@@ -28,18 +28,11 @@
 
 <h3>DataBases:</h3>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-
-
-
-
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshkuddana&show_icons=true&locale=en&layout=compact" alt="dineshkuddana" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshkuddana&show_icons=true&locale=en" alt="dineshkuddana" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkuddana&" alt="dineshkuddana" /></p>
-
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dinesh41916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinesh41916" height="30" width="40" /></a>
