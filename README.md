@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kuddana</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h1 align="center">Pursuing a B.Tech in Computer Science and Engineering at JNTUACEA to build a strong foundation in technology and problem-solving.</h1>
+<h3 align="center">A Passionate "Frontend Developer" from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack and DSA in Python**
+-🌱 I’m currently learning **MERN Stack and DSA in Python**
 
 - 👯 I’m looking to collaborate on **Web Developement for any project Contributions**
 
